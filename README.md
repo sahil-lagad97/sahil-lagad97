@@ -1,9 +1,8 @@
 
-# Hi there 👋, my name is Achyuth 
+# Hi there 👋, my name is Sahil Lagad 
 
-![I'm a passionate Front-End Developer](https://drive.google.com/file/d/10HYB_8h-UEeN9aZMcGzWx1SXat5JddHo/view?usp=sharing)
+![I'm a passionate Front-End Developer](https://res.cloudinary.com/dwb6q7pmu/image/upload/v1733585834/ym0qemfygzx2cehnbjvh.png)
 
-<h1 align="center">Hi 👋, I'm Sahil Lagad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-lagad97&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-lagad97" /> </p>
