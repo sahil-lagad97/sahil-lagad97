@@ -3,15 +3,17 @@
 
 ![I'm a passionate Front-End Developer](https://res.cloudinary.com/des7uyibo/image/upload/v1662047052/2_jbrjn3.png)
 ## I'm a passionate Front-End Developer
-Application Engineer | UI Developer | React | React Native | Hooks | Redux | GraphQL | Express Js | SQL| MongoDB | Microfrotend | Storybook |
 
-Skills: REACT / JS / HTML / CSS / Bootstrap
+
+
 <h1 align="center">Hi 👋, I'm Sahil Lagad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-lagad97&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-lagad97" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-lagad97" alt="sahil-lagad97" /></a> </p>
+
+Skills: REACT / JS / HTML / CSS / Bootstrap / React / Hooks / Redux / Express Js / SQL / MongoDB / Next js
 
 - 🔭 I’m currently working on **on Frontend Development**
 
