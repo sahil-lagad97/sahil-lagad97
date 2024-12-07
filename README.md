@@ -1,4 +1,7 @@
-!(https://res.cloudinary.com/des7uyibo/image/upload/v1662047052/2_jbrjn3.png)
+
+# Hi there 👋, my name is Achyuth 
+
+![I'm a passionate Front-End Developer](https://res.cloudinary.com/des7uyibo/image/upload/v1662047052/2_jbrjn3.png)
 
 <h1 align="center">Hi 👋, I'm Sahil Lagad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
