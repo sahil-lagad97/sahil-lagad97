@@ -34,6 +34,6 @@ Skills: REACT / JS / HTML / CSS / Bootstrap / React / Hooks / Redux / Express Js
 </br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-lagad97&show_icons=true&locale=en&layout=compact" alt="sahil-lagad97" /></p>
 </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-lagad97&show_icons=true&locale=en" alt="sahil-lagad97" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sahil-lagad97&show_icons=true&locale=en" alt="sahil-lagad97" /></p>
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-lagad97&" alt="sahil-lagad97" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-lagad97&" alt="sahil-lagad97" /></p>
