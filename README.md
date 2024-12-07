@@ -1,4 +1,3 @@
-!(https://drive.google.com/file/d/10HYB_8h-UEeN9aZMcGzWx1SXat5JddHo/view)
 <h1 align="center">Hi 👋, I'm Sahil Lagad</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
